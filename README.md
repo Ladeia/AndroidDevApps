@@ -1,4 +1,4 @@
 # AndroidDevApps
 Repository for the android dev site apps.
 
- - [Rolador de dados interativo](roladorDeDadosInterativo/README.md)
+ - [Rolador de dados interativo](roladorDeDadosInterativo/)
