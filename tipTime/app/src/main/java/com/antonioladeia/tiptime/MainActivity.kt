@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         displayTip(tip)
-        
+
     }
 
     private fun displayTip(tip : Double) {
