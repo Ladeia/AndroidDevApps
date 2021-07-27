@@ -1,7 +1,7 @@
 package com.antonioladeia.affirmations.data
 
 import com.antonioladeia.affirmations.R
-import com.antonioladeia.affirmations.models.Affirmation
+import com.antonioladeia.affirmations.model.Affirmation
 
 class Datasource {
 
